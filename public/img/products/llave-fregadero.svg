@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400"><defs><radialGradient id="sh63" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#0B1736" stop-opacity="0.18"/><stop offset="1" stop-color="#0B1736" stop-opacity="0"/></radialGradient><linearGradient id="fc62" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#7B8794" stop-opacity="1"/><stop offset="0.35" stop-color="#FFFFFF" stop-opacity="1"/><stop offset="0.55" stop-color="#C9D1D9" stop-opacity="1"/><stop offset="1" stop-color="#6B7682" stop-opacity="1"/></linearGradient></defs><ellipse cx="200" cy="346" rx="120" ry="12" fill="url(#sh63)"/><rect x="120" y="318" width="160" height="22" rx="11" fill="url(#fc62)"/>
+       <rect x="182" y="150" width="36" height="175" rx="12" fill="url(#fc62)"/>
+       <path d="M200 160 C200 40 330 40 330 140 L330 170" stroke="url(#fc62)" stroke-width="28" fill="none" stroke-linecap="round"/>
+       <rect x="316" y="160" width="28" height="30" rx="6" fill="#56616C"/>
+       <rect x="218" y="190" width="70" height="18" rx="9" fill="url(#fc62)" transform="rotate(-25 218 199)"/>
+       <rect x="96" y="300" width="46" height="40" rx="10" fill="url(#fc62)"/><rect x="258" y="300" width="46" height="40" rx="10" fill="url(#fc62)"/></svg>

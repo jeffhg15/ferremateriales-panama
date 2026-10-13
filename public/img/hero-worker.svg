@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 640" width="520" height="640">
+  <title>Trabajador de construcción (ilustración temporal)</title>
+  <!-- Ilustración TEMPORAL. Reemplace por una fotografía recortada (PNG/WebP transparente) en src/lib/images.js. -->
+  <defs>
+    <linearGradient id="skin" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#B9784B"/><stop offset=".45" stop-color="#D49A6A"/><stop offset="1" stop-color="#A9693F"/></linearGradient>
+    <linearGradient id="skinArm" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#A9693F"/><stop offset=".5" stop-color="#CF9363"/><stop offset="1" stop-color="#A2633A"/></linearGradient>
+    <linearGradient id="shirt" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#0A142E"/><stop offset=".5" stop-color="#1B2D5A"/><stop offset="1" stop-color="#0A142E"/></linearGradient>
+    <linearGradient id="vest" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#5FE3F5"/><stop offset=".55" stop-color="#3ED4ED"/><stop offset="1" stop-color="#1FA9C2"/></linearGradient>
+    <linearGradient id="hat" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FFF27A"/><stop offset=".55" stop-color="#FFE000"/><stop offset="1" stop-color="#D9B200"/></linearGradient>
+    <linearGradient id="sack" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#9AA1A9"/><stop offset=".35" stop-color="#E3E7EB"/><stop offset=".75" stop-color="#C7CDD3"/><stop offset="1" stop-color="#8E959D"/></linearGradient>
+    <linearGradient id="bucket" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#A3010A"/><stop offset=".35" stop-color="#E5121A"/><stop offset=".7" stop-color="#DB020A"/><stop offset="1" stop-color="#8F0108"/></linearGradient>
+    <radialGradient id="cheek" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#E7A37A" stop-opacity=".55"/><stop offset="1" stop-color="#E7A37A" stop-opacity="0"/></radialGradient>
+  </defs>
+
+  <!-- Torso / camisa -->
+  <path d="M96 640 L104 380 Q110 318 170 302 L232 286 Q260 300 288 286 L350 302 Q410 318 418 380 L428 640 Z" fill="url(#shirt)"/>
+  <!-- Chaleco -->
+  <path d="M120 640 L126 392 Q130 334 182 314 L226 298 L238 360 L224 640 Z" fill="url(#vest)"/>
+  <path d="M404 640 L398 392 Q394 334 342 314 L296 298 L284 360 L298 640 Z" fill="url(#vest)"/>
+  <rect x="128" y="470" width="96" height="18" fill="#FFEB00"/><rect x="128" y="474" width="96" height="4" fill="#fff" opacity=".7"/>
+  <rect x="298" y="470" width="102" height="18" fill="#FFEB00"/><rect x="298" y="474" width="102" height="4" fill="#fff" opacity=".7"/>
+  <rect x="140" y="560" width="84" height="18" fill="#FFEB00"/><rect x="298" y="560" width="92" height="18" fill="#FFEB00"/>
+  <!-- Parche -->
+  <rect x="318" y="392" width="56" height="34" rx="6" fill="#fff"/>
+  <rect x="326" y="398" width="8" height="22" fill="#DB020A"/><rect x="326" y="398" width="22" height="6" fill="#DB020A"/><rect x="326" y="407" width="16" height="5" fill="#DB020A"/>
+  <text x="362" y="416" font-family="Arial Black,Arial" font-size="11" font-weight="900" fill="#0B1736" text-anchor="middle">M</text>
+  <!-- Cuello de la camisa -->
+  <path d="M226 290 L260 336 L294 290 L282 282 L260 314 L238 282 Z" fill="#22396B"/>
+
+  <!-- Cuello -->
+  <path d="M236 232 L284 232 L288 292 Q260 318 232 292 Z" fill="url(#skin)"/>
+  <path d="M236 262 Q260 280 286 262 L288 292 Q260 306 232 292 Z" fill="#9A5E37" opacity=".35"/>
+
+  <!-- Orejas -->
+  <ellipse cx="204" cy="200" rx="13" ry="20" fill="#B97B4E"/><ellipse cx="316" cy="200" rx="13" ry="20" fill="#B97B4E"/>
+  <!-- Cabeza -->
+  <path d="M208 170 Q206 248 260 262 Q314 248 312 170 Q312 120 260 116 Q208 120 208 170 Z" fill="url(#skin)"/>
+  <!-- Cabello / patillas -->
+  <path d="M208 172 Q206 140 216 128 L226 170 Q218 176 212 196 Z" fill="#1F1A17"/>
+  <path d="M312 172 Q314 140 304 128 L294 170 Q302 176 308 196 Z" fill="#1F1A17"/>
+  <!-- Barba corta -->
+  <path d="M218 214 Q224 252 260 262 Q296 252 302 214 Q296 236 260 242 Q224 236 218 214 Z" fill="#2A221D" opacity=".55"/>
+  <!-- Cejas y ojos -->
+  <path d="M228 176 Q240 168 252 175" stroke="#1F1A17" stroke-width="5" fill="none" stroke-linecap="round"/>
+  <path d="M268 175 Q280 168 292 176" stroke="#1F1A17" stroke-width="5" fill="none" stroke-linecap="round"/>
+  <ellipse cx="240" cy="190" rx="6" ry="5" fill="#1F1A17"/><ellipse cx="280" cy="190" rx="6" ry="5" fill="#1F1A17"/>
+  <circle cx="242" cy="188" r="1.6" fill="#fff"/><circle cx="282" cy="188" r="1.6" fill="#fff"/>
+  <!-- Nariz -->
+  <path d="M260 192 Q256 212 250 216 Q258 222 268 216" stroke="#9A5E37" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <ellipse cx="234" cy="214" rx="12" ry="8" fill="url(#cheek)"/><ellipse cx="286" cy="214" rx="12" ry="8" fill="url(#cheek)"/>
+  <!-- Sonrisa -->
+  <path d="M240 228 Q260 246 280 228 Q260 238 240 228 Z" fill="#fff"/>
+  <path d="M238 227 Q260 248 282 227" stroke="#7A3F22" stroke-width="3" fill="none" stroke-linecap="round"/>
+
+  <!-- Casco -->
+  <path d="M198 160 Q196 92 260 86 Q324 92 322 160 Z" fill="url(#hat)"/>
+  <path d="M252 88 L268 88 L272 158 L248 158 Z" fill="#FFF7A8" opacity=".75"/>
+  <path d="M184 160 Q260 142 336 160 Q340 172 330 174 Q260 160 190 174 Q180 172 184 160 Z" fill="#E5C300"/>
+  <path d="M214 120 Q222 102 240 96" stroke="#fff" stroke-width="5" fill="none" stroke-linecap="round" opacity=".7"/>
+
+  <!-- Saco al hombro (lado izquierdo) -->
+  <g transform="rotate(-18 150 260)">
+    <path d="M40 210 Q130 196 236 214 L246 250 Q252 300 238 334 Q130 350 36 330 Q26 290 30 250 Z" fill="url(#sack)"/>
+    <path d="M40 210 Q130 196 236 214 L240 228 Q130 210 38 226 Z" fill="#8E959D" opacity=".6"/>
+    <rect x="42" y="282" width="196" height="30" fill="#DB020A"/>
+    <text x="140" y="268" text-anchor="middle" font-family="Arial Black,Arial" font-weight="900" font-size="26" fill="#0B1736">CEMENTO</text>
+    <text x="140" y="304" text-anchor="middle" font-family="Arial Black,Arial" font-weight="900" font-size="15" fill="#fff">42.5 kg</text>
+  </g>
+  <!-- Brazo derecho levantado sosteniendo el saco -->
+  <path d="M120 400 Q100 350 118 300 Q130 272 158 268 L176 300 Q150 330 160 392 Z" fill="url(#shirt)"/>
+  <path d="M150 296 Q148 256 170 236 L200 252 Q184 270 186 300 Z" fill="url(#skinArm)"/>
+  <ellipse cx="186" cy="244" rx="20" ry="16" fill="#C98A5A"/>
+  <path d="M172 236 q8 -10 26 -4" stroke="#9A5E37" stroke-width="3" fill="none" stroke-linecap="round"/>
+
+  <!-- Brazo izquierdo bajando hacia la cubeta -->
+  <path d="M368 306 Q414 318 426 372 L434 452 L392 458 L382 380 Z" fill="url(#shirt)"/>
+  <path d="M394 452 L432 448 Q438 500 428 532 L404 534 Q396 494 394 452 Z" fill="url(#skinArm)"/>
+  <ellipse cx="416" cy="538" rx="22" ry="17" fill="#C98A5A"/>
+  <!-- Cubeta de pintura -->
+  <path d="M360 548 Q416 474 472 548" stroke="#2A3340" stroke-width="5" fill="none"/>
+  <path d="M346 556 L486 556 L474 660 L358 660 Z" fill="url(#bucket)"/>
+  <ellipse cx="416" cy="556" rx="70" ry="12" fill="#7E0107"/>
+  <ellipse cx="416" cy="554" rx="62" ry="8" fill="#E5121A"/>
+  <rect x="372" y="584" width="88" height="42" rx="6" fill="#fff"/>
+  <text x="416" y="611" text-anchor="middle" font-family="Arial Black,Arial" font-weight="900" font-size="16" fill="#0B1736">PINTURA</text>
+  <path d="M400 528 q8 4 30 2" stroke="#9A5E37" stroke-width="3" fill="none" stroke-linecap="round"/>
+</svg>

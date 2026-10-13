@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 80" width="300" height="80">
+  <title>Ferremateriales — logotipo temporal</title>
+  <!-- Logotipo de texto TEMPORAL inspirado en la marca. Reemplazar por el archivo original del negocio. -->
+  <path d="M74 14 q8 -7 16 0 t16 0 t16 0 t16 0 t16 0 t16 0 t16 0" fill="none" stroke="#0B1736" stroke-width="2.6" stroke-linecap="round"/>
+  <path d="M74 21 q8 -7 16 0 t16 0 t16 0 t16 0 t16 0 t16 0 t16 0" fill="none" stroke="#3ED4ED" stroke-width="2.6" stroke-linecap="round"/>
+  <rect x="8" y="10" width="13" height="58" fill="#DB020A"/>
+  <rect x="8" y="10" width="44" height="12" fill="#DB020A"/>
+  <rect x="8" y="35" width="32" height="11" fill="#DB020A"/>
+  <rect x="21" y="22" width="4" height="46" fill="#0B1736" opacity=".25"/>
+  <text x="50" y="62" font-family="'DM Serif Display', Georgia, 'Times New Roman', serif" font-size="34" fill="#0B1736" letter-spacing="-0.5">erre<tspan fill="#0B1736">Materiales</tspan></text>
+  <text x="152" y="76" font-family="'Plus Jakarta Sans', Arial, sans-serif" font-size="9" font-weight="700" fill="#0B1736" opacity=".65" text-anchor="middle" letter-spacing="2.2">PANAMÁ · MATERIALES Y MUCHO MÁS</text>
+</svg>

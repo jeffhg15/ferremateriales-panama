@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400"><defs><radialGradient id="sh15" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#0B1736" stop-opacity="0.18"/><stop offset="1" stop-color="#0B1736" stop-opacity="0"/></radialGradient><linearGradient id="sk13" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#D9C24D" stop-opacity="1"/><stop offset="0.25" stop-color="#FFF6B8" stop-opacity="1"/><stop offset="0.7" stop-color="#FFF6B8" stop-opacity="1"/><stop offset="1" stop-color="#D9C24D" stop-opacity="1"/></linearGradient><linearGradient id="hl14" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff" stop-opacity="0.35"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient></defs><ellipse cx="200" cy="362" rx="125" ry="15" fill="url(#sh15)"/>
+    <path d="M92 70 Q200 52 308 70 L322 120 Q330 220 318 320 Q316 346 300 350 Q200 362 100 350 Q84 346 82 320 Q70 220 78 120 Z" fill="url(#sk13)"/>
+    <path d="M92 70 Q200 52 308 70 L312 86 Q200 70 88 86 Z" fill="#D9C24D" opacity=".55"/>
+    <path d="M100 74 Q150 66 190 66 L180 330 Q140 332 104 326 Q92 220 100 74Z" fill="url(#hl14)"/>
+    <rect x="96" y="220" width="208" height="62" rx="6" fill="#0B1736"/>
+    <text x="200" y="152" text-anchor="middle" font-family="Arial Black,Arial,sans-serif" font-weight="900" font-size="34" fill="#0B1736">REPELLO</text>
+    <text x="200" y="186" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="17" fill="#0B1736" opacity=".75">MEZCLA LISTA</text>
+    <text x="200" y="260" text-anchor="middle" font-family="Arial Black,Arial,sans-serif" font-weight="900" font-size="26" fill="#fff">FERRE</text>
+    <path d="M120 320 q10 6 20 0 M260 320 q10 6 20 0" stroke="#D9C24D" stroke-width="3" fill="none" opacity=".4"/></svg>

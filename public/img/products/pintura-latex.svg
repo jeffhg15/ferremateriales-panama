@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400"><defs><radialGradient id="sh86" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#0B1736" stop-opacity="0.18"/><stop offset="1" stop-color="#0B1736" stop-opacity="0"/></radialGradient><linearGradient id="cn84" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#8A96A3" stop-opacity="1"/><stop offset="0.15" stop-color="#E8EDF2" stop-opacity="1"/><stop offset="0.45" stop-color="#FFFFFF" stop-opacity="1"/><stop offset="0.8" stop-color="#B9C3CD" stop-opacity="1"/><stop offset="1" stop-color="#7D8995" stop-opacity="1"/></linearGradient><linearGradient id="ld85" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#9AA5B1" stop-opacity="1"/><stop offset="0.5" stop-color="#F1F4F7" stop-opacity="1"/><stop offset="1" stop-color="#8E99A5" stop-opacity="1"/></linearGradient></defs><ellipse cx="200" cy="352" rx="105" ry="14" fill="url(#sh86)"/>
+    <rect x="115" y="110" width="170" height="230" rx="12" fill="url(#cn84)"/>
+    <ellipse cx="200" cy="112" rx="85" ry="18" fill="url(#ld85)"/>
+    <ellipse cx="200" cy="108" rx="71" ry="11" fill="#C9D2DC"/>
+    <path d="M145 104 Q200 40 255 104" stroke="#5E6B78" stroke-width="5" fill="none"/>
+    <rect x="115" y="160" width="170" height="140" fill="#3ED4ED"/>
+    <rect x="115" y="160" width="170" height="140" fill="url(#cn84)" opacity=".25"/>
+    <rect x="133" y="178" width="134" height="72" rx="8" fill="#fff"/>
+    <circle cx="155" cy="214" r="16" fill="#FFFFFF"/>
+    <text x="179" y="210" font-family="Arial Black,Arial,sans-serif" font-size="20" font-weight="900" fill="#0B1736">LÁTEX</text>
+    <text x="179" y="232" font-family="Arial,sans-serif" font-size="13" font-weight="700" fill="#0B1736" opacity=".7">Interior · mate</text>
+    <rect x="115" y="268" width="170" height="10" fill="#fff" opacity=".35"/></svg>

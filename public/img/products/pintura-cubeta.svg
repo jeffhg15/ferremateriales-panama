@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400"><defs><radialGradient id="sh93" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#0B1736" stop-opacity="0.18"/><stop offset="1" stop-color="#0B1736" stop-opacity="0"/></radialGradient><linearGradient id="bk92" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#1A9DB4" stop-opacity="1"/><stop offset="0.3" stop-color="#3ED4ED" stop-opacity="1"/><stop offset="0.65" stop-color="#3ED4ED" stop-opacity="1"/><stop offset="1" stop-color="#1A9DB4" stop-opacity="1"/></linearGradient></defs><ellipse cx="200" cy="356" rx="120" ry="15" fill="url(#sh93)"/>
+    <path d="M100 100 L300 100 L282 340 Q200 352 118 340 Z" fill="url(#bk92)"/>
+    <ellipse cx="200" cy="100" rx="100" ry="16" fill="#1A9DB4"/>
+    <ellipse cx="200" cy="98" rx="92" ry="11" fill="#3ED4ED"/>
+    <path d="M104 118 L296 118" stroke="#1A9DB4" stroke-width="4"/>
+    <path d="M110 108 Q200 20 290 108" stroke="#2A3340" stroke-width="5" fill="none"/>
+    <rect x="125" y="170" width="150" height="110" rx="10" fill="#fff" opacity=".95"/>
+    <text x="200" y="215" text-anchor="middle" font-family="Arial Black,Arial,sans-serif" font-size="22" font-weight="900" fill="#0B1736">LÁTEX</text>
+    <text x="200" y="242" text-anchor="middle" font-family="Arial,sans-serif" font-size="14" font-weight="700" fill="#0B1736" opacity=".7">Cubeta 5 gal</text>
+    <rect x="145" y="254" width="110" height="10" rx="5" fill="#3ED4ED"/></svg>
